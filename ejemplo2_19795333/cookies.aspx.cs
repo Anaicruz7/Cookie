@@ -18,7 +18,7 @@ namespace ejemplo2_19795333
         {
             Response.Redirect
                 (
-            "Cokkie2ConfirmProduct.aspx" + "?ddlCategory=" + ddlCategory.SelectedValue + "&ddlSupplier=" + ddlSupplier.SelectedValue + "&txtProducto=" + txtProduct.Text + "&txtDescripcion=" + txtDescripcion.Text + "&txtImagen=" + txtImagen.Text + "&decprice=" + txtPrice.Text + "&byNumberInStock=" + txtNumberInStock.Text + "&byNumberOnOrder=" + txtNumberOnOrder.Text + "&byReorderLevel=" + txtNumberOnOrder.Text);
+            "Cookies2.aspx" + "?ddlCategory=" + ddlCategory.SelectedValue + "&ddlSupplier=" + ddlSupplier.SelectedValue + "&txtProducto=" + txtProduct.Text + "&txtDescripcion=" + txtDescripcion.Text + "&txtImagen=" + txtImagen.Text + "&decprice=" + txtPrice.Text + "&byNumberInStock=" + txtNumberInStock.Text + "&byNumberOnOrder=" + txtNumberOnOrder.Text + "&byReorderLevel=" + txtNumberOnOrder.Text);
         }
     }
 }
