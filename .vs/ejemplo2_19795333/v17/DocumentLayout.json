@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\ejemplo2_19795333\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE803049-E6A2-4D81-BE95-FE58FEE68DE5}|ejemplo2_19795333\\ejemplo2_19795333.csproj|c:\\users\\anai\\desktop\\practica3\\asp\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AE803049-E6A2-4D81-BE95-FE58FEE68DE5}|ejemplo2_19795333\\ejemplo2_19795333.csproj|solutionrelative:ejemplo2_19795333\\cookies.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE803049-E6A2-4D81-BE95-FE58FEE68DE5}|ejemplo2_19795333\\ejemplo2_19795333.csproj|c:\\users\\anai\\desktop\\practica3\\asp\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE803049-E6A2-4D81-BE95-FE58FEE68DE5}|ejemplo2_19795333\\ejemplo2_19795333.csproj|solutionrelative:ejemplo2_19795333\\cookies.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cookies.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx.cs",
+              "RelativeDocumentMoniker": "ejemplo2_19795333\\cookies.aspx.cs",
+              "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx.cs",
+              "RelativeToolTip": "ejemplo2_19795333\\cookies.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAACeAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:03:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cookies.aspx",
+              "DocumentMoniker": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx",
+              "RelativeDocumentMoniker": "ejemplo2_19795333\\cookies.aspx",
+              "ToolTip": "C:\\Users\\anai\\Desktop\\Practica3\\ASP\\ejemplo2_19795333\\ejemplo2_19795333\\cookies.aspx",
+              "RelativeToolTip": "ejemplo2_19795333\\cookies.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-26T19:00:41.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
